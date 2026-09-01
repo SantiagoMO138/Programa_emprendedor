@@ -4,6 +4,10 @@ Aurea Analytics es una plataforma autoservicio dirigida a PyMEs bolivianas. El c
 
 Los proyectos que requieren diseño, funcionalidades o integraciones fuera de los presets se derivan al equipo de ventas.
 
+## Demo pública
+
+Tras ejecutarse el despliegue de GitHub Pages, el POC estará disponible en [SantiagoMO138.github.io/Programa_emprendedor](https://santiagomo138.github.io/Programa_emprendedor/).
+
 ## Estado
 
 El proyecto está en etapa de definición y prueba de concepto (POC). Aún no contiene una aplicación ejecutable.
